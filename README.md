@@ -5,7 +5,7 @@ Jigsaw Puzzle
 I have been working with my daughter on a 1000 piece puzzle, really she has been doing all the work, I contribute one or two pieces once a while. It has been very slow even as we have over 75% of the puzzle done. I worked on a puzzle solver using OpenCV, for example in this project [CVFunhouse](https://github.com/seizadi/CVFunhouse), ran OpenCV algorithms on iPhone to show ability to do frame capture and image processing. In this [puzzle software](https://github.com/seizadi/spotit) used OpenCV to solve 
 [SpotIt puzzle game](https://www.walmart.com/ip/Spot-It/586143475). Working with my daughter on the jigsaw puzzle inspired me to look at the current state of the art in developing this type of software using more advanced AI.
 
-I expect that as first of this work I will do a lot of reading and research before I develop a solution. I will track these under references.
+I expect to do a lot of reading and research before I develop a solution. I will track these under references.
 
 ## References
    * This is a [blog on the current state of the art with OpenCV](https://learnopencv.com/)
