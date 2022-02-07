@@ -10,10 +10,10 @@ I expect to do a lot of reading and research before I develop a solution. I will
 ## References
    * This is a [blog on the current state of the art with OpenCV](https://learnopencv.com/)
    * Found a post on [OpenCV specific algorithm for Jigsaw Puzzle](https://towardsdatascience.com/solving-jigsaw-puzzles-with-python-and-opencv-d775ba730660)
-   * This a [research paper on using TensorFlow for Jigsaw Puzzle](https://arxiv.org/abs/1603.09246) and couple of implementations [using Caffe for CFN](https://github.com/MehdiNoroozi/JigsawPuzzleSolver) and [implmentation using PyTorch](https://github.com/bbrattoli/JigsawPuzzlePytorch). The same [PyTorch implementations is refrenced here](https://github.com/YeonwooSung/SelfSupervisedLearning_PyTorch/tree/master/JigsawPuzzle).
-   * [Blog on using TensorFlow for jigsaw puzzle](https://shiva-verma.medium.com/solving-jigsaw-using-neural-nets-cc543a5f025c) and [implmentation on github](https://github.com/shivaverma/Jigsaw-Solvera).
+   * This a [research paper on using TensorFlow for Jigsaw Puzzle](https://arxiv.org/abs/1603.09246) and couple of implementations [using Caffe for CFN](https://github.com/MehdiNoroozi/JigsawPuzzleSolver) and [implmentation using PyTorch](https://github.com/bbrattoli/JigsawPuzzlePytorch). The same [PyTorch implementations is refrenced here](https://github.com/YeonwooSung/SelfSupervisedLearning_PyTorch/tree/master/JigsawPuzzle)
+   * [Blog on using TensorFlow for jigsaw puzzle](https://shiva-verma.medium.com/solving-jigsaw-using-neural-nets-cc543a5f025c) and [implmentation on github](https://github.com/shivaverma/Jigsaw-Solvera)
    * [Computational Jigsaw Puzzle Solving](http://icvl.cs.bgu.ac.il/automatic-jigsaw-puzzle-solving/)
    * [Solving jigsaw puzzles using Matlab and CVX toolbox](https://github.com/guansanghai/CVX-Jigsaw)
-   * [Jigsaw puzzle solver](https://github.com/jkminder/jigsaw-puzzle-solver). It is poorly documented and has restrictive GPL3 license. I listed here mainly to use its [samples for test dataset0](https://github.com/jkminder/jigsaw-puzzle-solver/tree/master/samples) for training data.
-   * [Solving jigsaw puzzle using linear programming](https://github.com/sayarghoshroy/Linear-Programming-Problems).
-   * [Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/pdf/1603.09246.pdf) and [implementation of Self-Supervised Learning (SSL) for jigsaw](https://github.com/kushagraagrawal/SSLearning).
+   * [Jigsaw puzzle solver](https://github.com/jkminder/jigsaw-puzzle-solver). It is poorly documented and has a restrictive GPL3 license. I listed here mainly to use its [samples for training data](https://github.com/jkminder/jigsaw-puzzle-solver/tree/master/samples)
+   * [Solving jigsaw puzzle using linear programming](https://github.com/sayarghoshroy/Linear-Programming-Problems)
+   * [Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/pdf/1603.09246.pdf) and [implementation of Self-Supervised Learning (SSL) for jigsaw](https://github.com/kushagraagrawal/SSLearning)
